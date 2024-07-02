@@ -1,0 +1,43 @@
+{
+  "block.dragonloot.dragon_anvil": "Yunque de Dragón",
+  "item.dragonloot.dragon_scale": "Escama de Dragón",
+  
+  "item.dragonloot.dragon_helmet": "Casco de Escama de Dragón",
+  "item.dragonloot.dragon_chestplate": "Peto de Escama de Dragón",
+  "item.dragonloot.dragon_leggings": "Pantalones de Escama de Dragón",
+  "item.dragonloot.dragon_boots": "Botas de Escama de Dragón",
+  "item.dragonloot.upgraded_dragon_chestplate": "Peto de Escama de Dragón Alado",
+
+  "item.dragonloot.dragon_pickaxe": "Pico de Dragón",
+  "item.dragonloot.dragon_axe": "Hacha de Dragón",
+  "item.dragonloot.dragon_shovel": "Pala de Dragón",
+  "item.dragonloot.dragon_hoe": "Azada de Dragón",
+  "item.dragonloot.dragon_sword": "Espada de Dragón",
+  "item.dragonloot.dragon_bow": "Arco de Dragón",
+  "item.dragonloot.dragon_crossbow": "Ballesta de Dragón",
+
+  "item.dragonloot.dragon_horse_armor": "Armadura de Caballo de Dragón",
+  "item.dragonloot.dragon_trident": "Tridente de Dragón",
+  "entity.dragonloot.dragon_trident": "Tridente de Dragón",
+
+  "itemGroup.dragonloot.dragonloot": "Dragon Loot",
+
+  "text.autoconfig.dragonloot.title": "Configuración de Dragon Loot",
+  "text.autoconfig.dragonloot.option.scale_minimum_drop_amount": "Cantidad mínima de escamas",
+  "text.autoconfig.dragonloot.option.additional_scales_per_player": "Escamas adicionales por jugador",
+  "text.autoconfig.dragonloot.option.additional_scale_drop_chance": "Probabilidad adicional de soltar escamas",
+  "text.autoconfig.dragonloot.option.dragon_armor_protection_helmet": "Protección del casco de armadura de dragón",
+  "text.autoconfig.dragonloot.option.dragon_armor_protection_chest": "Protección del peto de armadura de dragón",
+  "text.autoconfig.dragonloot.option.dragon_armor_protection_leggings": "Protección de los pantalones de armadura de dragón",
+  "text.autoconfig.dragonloot.option.dragon_armor_protection_boots": "Protección de las botas de armadura de dragón",
+  "text.autoconfig.dragonloot.option.dragon_armor_durability_multiplier": "Multiplicador de durabilidad de la armadura de dragón",
+  "text.autoconfig.dragonloot.option.dragon_item_durability_multiplier": "Multiplicador de durabilidad de los objetos de dragón",
+  "text.autoconfig.dragonloot.option.dragon_item_base_damage": "Daño base de los objetos de dragón",
+  "text.autoconfig.dragonloot.option.dragon_anvil_no_cap": "Sin límite en el yunque de dragón",
+  "text.autoconfig.dragonloot.option.dragon_armor_toughness": "Dureza de la armadura de dragón",
+  "text.autoconfig.dragonloot.option.dragon_armor_knockback_resistance": "Resistencia al retroceso de la armadura de dragón",
+  "text.autoconfig.dragonloot.option.dragon_armor_enchantability": "Encantabilidad de la armadura de dragón",
+
+  "dragonloot.advancements.dragon_armor.title": "De las escamas de la bestia",
+  "dragonloot.advancements.dragon_armor.description": "Obtén un conjunto completo de armadura de dragón"
+}
